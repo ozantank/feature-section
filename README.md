@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Screenshot
 
-![HOME](images/home.html.png)
-![MOBILE](images/mobile.png)
+![HOME](images/home.png)
+![MOBILE](images/mobile.html.png)
 
 ### Links
 
